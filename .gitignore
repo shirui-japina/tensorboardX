@@ -9,3 +9,5 @@ dist
 runs/*
 *.pyc
 .vscode/settings.json
+mnist
+all_scalars.json
